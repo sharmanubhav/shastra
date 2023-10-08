@@ -15,15 +15,17 @@ Report any bugs, suggestions, or thoughts to Anubhav Sharma at [anubhavprasadsha
 
 ## Installation
 
-To install the `shastra` package, you can use `pip`, Python's package manager. Open a terminal or command prompt and run the following command:
+To install the `shastra` package, you can use `pip`, Python's package manager. In your terminal, you can use the following command:
 
 ```bash
-pip install git+https://github.com/sharmanubhav/shastra.git
+python3 -m pip install git+https://github.com/sharmanubhav/shastra.git
 ```
 
-Alternativaly, you can install it using `poetry` using following command:
-```bash
-poetry add git+https://github.com/sharmanubhav/shastra.git
+If you are using in Jupyter Notebook, use the following command. Using Python 3 (ipykernel) or a virtual environment is recommended if there are problems with installation.
+
+```notebook
+import sys
+!{sys.executable} -m pip install git+https://github.com/sharmanubhav/shastra.git
 ```
 
 ## Documentation
