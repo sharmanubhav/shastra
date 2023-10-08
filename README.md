@@ -1,5 +1,4 @@
-# shastra 
-## SHarma's ASTRo Archive
+# shastra - SHarma's ASTRo Archive
 
 A package for the analysis tools for astro research that arose from the code used for the publication [HI-Rich but low star formation galaxies in MaNGA: physical properties and comparison to control samples](https://academic.oup.com/mnras/article-abstract/526/1/1573/7264872?redirectedFrom=fulltext). You need to install it to run the example notebook *HIRichLowSFRGalaxies_example.ipynb*. The goal is to make it faster to do statistical analysis and data visualization for astro research projects, specifically the one that involves multiple control samples.
 
@@ -13,6 +12,7 @@ Report any bugs, suggestions, or thoughts to Anubhav Sharma at [anubhavprasadsha
   - [Sample](#sample)
   - [Research](#research)
 - [Acknowledgement](#acknowledgement)
+- [Citation](#citation)
 
 ## Installation
 
